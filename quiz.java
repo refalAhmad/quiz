@@ -53,7 +53,7 @@ class LinearSearch {
 
             {
 
-                        int[] arr = { 3, 4, 1, 7, 5, 2 };
+                        int[] arr = { 3, 4, 1, 7, 5, 8 };
 
                         int n = arr.length;
 
